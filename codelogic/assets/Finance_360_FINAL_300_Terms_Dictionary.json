@@ -1,0 +1,1367 @@
+[
+ {
+  "Term": "Assets",
+  "Definition": "Anything of value that you own, like cash, property, or investments.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Liabilities",
+  "Definition": "Debts or obligations you owe, like loans, credit cards, or mortgages.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Net Worth",
+  "Definition": "Your total assets minus your total liabilities.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Budget",
+  "Definition": "A plan for how you spend and save your money.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Emergency Fund",
+  "Definition": "Money set aside for unexpected expenses or emergencies.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Pay Yourself First",
+  "Definition": "A strategy to save money by putting savings first before spending.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Discretionary Income",
+  "Definition": "Money left after paying for essential expenses.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Fixed Expenses",
+  "Definition": "Expenses that stay the same each month, like rent or car payments.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Variable Expenses",
+  "Definition": "Expenses that can change each month, like groceries or gas.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Savings Account",
+  "Definition": "A bank account that earns interest and helps you save money.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Interest",
+  "Definition": "The cost of borrowing money or the money you earn on savings.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Compound Interest",
+  "Definition": "Interest calculated on both the original amount and any interest earned.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Annual Percentage Yield (APY)",
+  "Definition": "The actual return on savings over a year, including compound interest.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Credit Score",
+  "Definition": "A number that shows how likely you are to repay your debts.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "FICO Score",
+  "Definition": "A type of credit score used by many lenders to assess credit risk.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Debt-to-Income Ratio",
+  "Definition": "Your total monthly debt payments divided by your monthly income.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Minimum Payment",
+  "Definition": "The lowest amount you must pay on a debt each month.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Debt Consolidation",
+  "Definition": "Combining multiple debts into one with a single payment.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Debt Settlement",
+  "Definition": "Negotiating with creditors to pay less than the total amount owed.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Credit Counseling",
+  "Definition": "Professional advice to help manage and reduce debt.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "401(k)",
+  "Definition": "A retirement savings account offered by employers with tax benefits.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Roth IRA",
+  "Definition": "A retirement account where you pay taxes up front, but withdrawals in retirement are tax-free.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Traditional IRA",
+  "Definition": "A retirement account where you get a tax break now, but pay taxes on withdrawals later.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Mutual Fund",
+  "Definition": "A pool of money from many investors to buy a variety of stocks, bonds, or other assets.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Diversification",
+  "Definition": "Spreading your money across different investments to reduce risk.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Capital Gain",
+  "Definition": "The profit made from selling something for more than you paid for it.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Principal",
+  "Definition": "The original amount of money borrowed or invested, not including interest.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Term Life Insurance",
+  "Definition": "Life insurance that covers you for a specific period of time.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Whole Life Insurance",
+  "Definition": "Life insurance that lasts your whole life and includes a savings part.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Universal Life Insurance",
+  "Definition": "Flexible life insurance with a savings component and adjustable premiums.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Cash Value",
+  "Definition": "The savings part of a permanent life insurance policy you can borrow from.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Beneficiary",
+  "Definition": "The person who receives the life insurance payout when you die.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Death Benefit",
+  "Definition": "The amount paid to your beneficiary when you die.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Living Benefits",
+  "Definition": "Life insurance features that let you access benefits while still alive, usually for illness.",
+  "Category": "Living Benefits"
+ },
+ {
+  "Term": "Chronic Illness Rider",
+  "Definition": "A feature that lets you access your policy if you’re diagnosed with a long-term illness.",
+  "Category": "Living Benefits"
+ },
+ {
+  "Term": "Accelerated Death Benefit",
+  "Definition": "A feature that allows early access to life insurance if diagnosed with a terminal illness.",
+  "Category": "Living Benefits"
+ },
+ {
+  "Term": "Co-pay",
+  "Definition": "The fixed amount you pay for a medical service.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Deductible",
+  "Definition": "The amount you pay before your health insurance starts to cover costs.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Premium",
+  "Definition": "The monthly cost you pay to keep your insurance active.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Out-of-Pocket Maximum",
+  "Definition": "The most you’ll pay in a year for healthcare services.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Tax Deduction",
+  "Definition": "An expense you can subtract from your income to lower your taxes.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Tax Credit",
+  "Definition": "An amount that reduces the taxes you owe, dollar for dollar.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "W-2",
+  "Definition": "A tax form your employer gives you that shows your income and taxes withheld.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "W-4",
+  "Definition": "A form you fill out to tell your employer how much tax to withhold from your paycheck.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "1040",
+  "Definition": "The standard IRS tax form for filing personal income taxes.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Will",
+  "Definition": "A legal document that says who gets your stuff after you die.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Trust",
+  "Definition": "A legal tool that holds and manages assets for someone else’s benefit.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Revocable Trust",
+  "Definition": "A trust you can change or cancel during your lifetime.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Irrevocable Trust",
+  "Definition": "A trust you cannot change once it's set up.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Executor",
+  "Definition": "The person who carries out the instructions in your will.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Power of Attorney",
+  "Definition": "A legal document letting someone make decisions for you if you can't.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Zero-Based Budget",
+  "Definition": "A budgeting method where every dollar is assigned a job.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Envelope System",
+  "Definition": "A cash-based method of budgeting by using envelopes for each spending category.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Rainy Day Fund",
+  "Definition": "Money set aside for small, unexpected expenses.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Automatic Transfer",
+  "Definition": "A scheduled move of money between accounts to encourage saving.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Cost of Living",
+  "Definition": "The amount of money needed to cover basic expenses in a specific location.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "High-Yield Savings Account",
+  "Definition": "A savings account with a higher-than-average interest rate.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Financial Goal",
+  "Definition": "A target you set for saving or spending money.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Lifestyle Inflation",
+  "Definition": "Increasing spending as your income rises.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Financial Literacy",
+  "Definition": "Understanding basic financial principles and tools.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Cash Flow",
+  "Definition": "The money coming in and going out of your accounts.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Default",
+  "Definition": "Failure to repay a loan as agreed.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Collections",
+  "Definition": "When a creditor hires a third party to collect unpaid debts.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Secured Debt",
+  "Definition": "A loan backed by collateral, like a car or house.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Unsecured Debt",
+  "Definition": "A loan not backed by any asset.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Installment Loan",
+  "Definition": "A loan repaid over time with a set number of payments.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Revolving Credit",
+  "Definition": "Credit that renews as you pay it off, like a credit card.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Credit Utilization",
+  "Definition": "The percentage of your credit limit you're using.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Hard Inquiry",
+  "Definition": "A credit check that can lower your score.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Soft Inquiry",
+  "Definition": "A credit check that doesn’t affect your score.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Forbearance",
+  "Definition": "A temporary pause or reduction in loan payments.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "Index Fund",
+  "Definition": "A fund that tracks a specific market index.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Exchange-Traded Fund (ETF)",
+  "Definition": "An investment fund traded on stock exchanges.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Stock",
+  "Definition": "A share of ownership in a company.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Bond",
+  "Definition": "A loan to a company or government that pays interest.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Annuity",
+  "Definition": "An insurance product that pays out income, often in retirement.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Pension",
+  "Definition": "A retirement plan that pays a set amount after retirement.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Asset Allocation",
+  "Definition": "How your investments are divided among different types.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Risk Tolerance",
+  "Definition": "How much loss you’re willing to accept in investments.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Required Minimum Distribution (RMD)",
+  "Definition": "The minimum amount you must withdraw from retirement accounts annually after age 73.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Rollover",
+  "Definition": "Moving funds from one retirement account to another.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Underwriting",
+  "Definition": "The process insurers use to decide coverage and rates.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Policyholder",
+  "Definition": "The person who owns the insurance policy.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Rider",
+  "Definition": "An add-on to a life insurance policy for extra benefits.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Contestability Period",
+  "Definition": "The time when insurers can investigate and deny claims.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Lapse",
+  "Definition": "The end of a policy due to missed payments.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Face Value",
+  "Definition": "The amount the insurance will pay when you die.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Convertible Term Policy",
+  "Definition": "A term policy that can be changed to permanent insurance.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Insurable Interest",
+  "Definition": "You must benefit from the insured’s continued life.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Group Life Insurance",
+  "Definition": "Life insurance offered by an employer to employees.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Medical Exam",
+  "Definition": "A health check often required before issuing a policy.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Critical Illness Rider",
+  "Definition": "Pays out if you’re diagnosed with a major illness like cancer.",
+  "Category": "Living Benefits"
+ },
+ {
+  "Term": "Disability Income Rider",
+  "Definition": "Provides income if you become disabled and can’t work.",
+  "Category": "Living Benefits"
+ },
+ {
+  "Term": "Long-Term Care Rider",
+  "Definition": "Covers care like a nursing home if you lose daily functions.",
+  "Category": "Living Benefits"
+ },
+ {
+  "Term": "Terminal Illness Benefit",
+  "Definition": "Pays part of the benefit if life expectancy is less than 12–24 months.",
+  "Category": "Living Benefits"
+ },
+ {
+  "Term": "Return of Premium",
+  "Definition": "Refunds premiums if no claim is made by a certain time.",
+  "Category": "Living Benefits"
+ },
+ {
+  "Term": "Waiver of Premium",
+  "Definition": "Stops your premium payments if you become disabled.",
+  "Category": "Living Benefits"
+ },
+ {
+  "Term": "Income Replacement",
+  "Definition": "Life insurance meant to replace lost income.",
+  "Category": "Living Benefits"
+ },
+ {
+  "Term": "Accelerated Benefit Option",
+  "Definition": "Another name for early payout for serious illness.",
+  "Category": "Living Benefits"
+ },
+ {
+  "Term": "Cash Advance",
+  "Definition": "Upfront access to a portion of the death benefit.",
+  "Category": "Living Benefits"
+ },
+ {
+  "Term": "Chronic Care Benefit",
+  "Definition": "Pays out when you can’t perform two or more daily activities.",
+  "Category": "Living Benefits"
+ },
+ {
+  "Term": "HSA (Health Savings Account)",
+  "Definition": "A savings account for medical expenses with tax advantages.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "FSA (Flexible Spending Account)",
+  "Definition": "A tax-free account for out-of-pocket medical expenses.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Network",
+  "Definition": "A group of healthcare providers your insurance works with.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Out-of-Network",
+  "Definition": "Healthcare services not covered by your insurance plan.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Referral",
+  "Definition": "A doctor's recommendation to see a specialist.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Preauthorization",
+  "Definition": "Approval from insurance before a service is provided.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Generic Drug",
+  "Definition": "A cheaper version of a brand-name drug.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Prescription Plan",
+  "Definition": "Insurance coverage for medication costs.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Telemedicine",
+  "Definition": "Remote access to doctors via phone or video.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Preventive Care",
+  "Definition": "Services like checkups to prevent illness.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Adjusted Gross Income (AGI)",
+  "Definition": "Your income after certain adjustments, used for taxes.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Taxable Income",
+  "Definition": "Income that is subject to income tax.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Standard Deduction",
+  "Definition": "A fixed amount that reduces your taxable income.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Itemized Deduction",
+  "Definition": "Specific expenses you list to lower your taxable income.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Tax Bracket",
+  "Definition": "The range of income taxed at a specific rate.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "FICA",
+  "Definition": "Payroll tax that funds Social Security and Medicare.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Capital Gains Tax",
+  "Definition": "Tax on profit from selling assets like stocks or real estate.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Self-Employment Tax",
+  "Definition": "Taxes paid by freelancers or business owners for Social Security and Medicare.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Withholding",
+  "Definition": "Money your employer deducts from your paycheck for taxes.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Estimated Tax",
+  "Definition": "Quarterly tax payments made if you're self-employed.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Living Will",
+  "Definition": "A document stating your medical wishes if you can’t communicate.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Healthcare Proxy",
+  "Definition": "Someone you assign to make medical decisions for you.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Guardianship",
+  "Definition": "Legal responsibility for a child or dependent person.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Estate",
+  "Definition": "Everything you own at the time of your death.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Heir",
+  "Definition": "Someone legally entitled to inherit property.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Intestate",
+  "Definition": "Dying without a legal will.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Probate",
+  "Definition": "The court process of distributing your estate.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Trustee",
+  "Definition": "Person or institution managing the assets in a trust.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Advance Directive",
+  "Definition": "Written instructions about medical care preferences.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Inheritance Tax",
+  "Definition": "Tax paid by someone who inherits money or property.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "W-9",
+  "Definition": "A tax form used to provide your taxpayer identification number to someone who will pay you.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "1099",
+  "Definition": "A tax form for reporting income earned outside of a regular job.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Tax-Deferred",
+  "Definition": "Income that is not taxed until a later date.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Dependent",
+  "Definition": "Someone you support financially and claim on your tax return.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Form 8863",
+  "Definition": "Used to claim education credits like the American Opportunity Credit.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Liquidity",
+  "Definition": "How quickly an asset can be turned into cash without losing value.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Appreciation",
+  "Definition": "An increase in the value of an asset over time.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Depreciation",
+  "Definition": "A decrease in the value of an asset over time.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Recession",
+  "Definition": "A period of economic decline lasting at least two quarters.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Gross Income",
+  "Definition": "Your total earnings before taxes or deductions.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Net Income",
+  "Definition": "Your earnings after taxes and deductions.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Income Statement",
+  "Definition": "A financial report showing your income and expenses.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Balance Sheet",
+  "Definition": "A summary of assets, liabilities, and net worth.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "ROI (Return on Investment)",
+  "Definition": "A measure of how much profit you earn from an investment.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Credit Report",
+  "Definition": "A detailed report of your credit history.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Loan Term",
+  "Definition": "The length of time you agree to repay a loan.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Overdraft",
+  "Definition": "When you spend more than your account balance.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Overdraft Protection",
+  "Definition": "A service that prevents your account from going negative.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Routing Number",
+  "Definition": "A nine-digit code used to identify your bank.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Account Number",
+  "Definition": "Your unique bank account identifier.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Direct Deposit",
+  "Definition": "An electronic deposit of money directly into your account.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "ACH Transfer",
+  "Definition": "A method of electronically moving money between banks.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Wire Transfer",
+  "Definition": "A fast, electronic transfer of funds across banks.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Mobile Deposit",
+  "Definition": "Depositing a check using a smartphone app.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Debit Card",
+  "Definition": "A card that uses money directly from your bank account.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Bank Statement",
+  "Definition": "A summary of all your account activity over a period.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Sole Proprietor",
+  "Definition": "A business owned and operated by one person.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "LLC",
+  "Definition": "A Limited Liability Company, which protects your personal assets.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "Business Credit",
+  "Definition": "Credit established in a business's name, separate from personal credit.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "Operating Expenses",
+  "Definition": "Day-to-day expenses of running a business.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "Profit Margin",
+  "Definition": "The percentage of revenue left after expenses.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "Break-Even Point",
+  "Definition": "When your revenue equals your expenses.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "Invoice",
+  "Definition": "A bill sent to request payment for services or products.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "Receivables",
+  "Definition": "Money owed to a business for goods or services.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "Quarterly Taxes",
+  "Definition": "Estimated tax payments made four times a year by self-employed people.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "Business License",
+  "Definition": "A permit allowing you to legally operate a business.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "Financial Planner",
+  "Definition": "A professional who helps people manage their finances and plan for the future.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Emergency Contact",
+  "Definition": "A person listed to be contacted in case of an emergency.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Digital Assets",
+  "Definition": "Online accounts or digital files with monetary or sentimental value.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Legacy",
+  "Definition": "What you leave behind for others, including money, property, or values.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Medigap",
+  "Definition": "Private insurance that helps cover costs not paid by Medicare.",
+  "Category": "Health Insurance"
+ },
+ {
+  "Term": "Beneficiary Designation",
+  "Definition": "The person named to receive benefits from insurance or accounts.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Retainer",
+  "Definition": "An upfront fee paid to secure services from a professional.",
+  "Category": "Legal\/Financial Services"
+ },
+ {
+  "Term": "Escrow",
+  "Definition": "A financial arrangement where a third party holds funds until conditions are met.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Financial Advisor",
+  "Definition": "A person who helps manage investments and finances.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Budget Surplus",
+  "Definition": "When income exceeds expenses.",
+  "Category": "Budgeting & Saving"
+ },
+ {
+  "Term": "Buy-Sell Agreement",
+  "Definition": "A legal agreement outlining what happens to a business if an owner leaves, retires, or dies.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Key Person Insurance",
+  "Definition": "A life insurance policy on an important person in a business to protect against their loss.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Indexed Universal Life (IUL)",
+  "Definition": "A flexible life insurance policy tied to a stock index with potential growth and downside protection.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Fixed Indexed Annuity (FIA)",
+  "Definition": "An annuity that earns interest based on a market index but protects against market losses.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Annuity",
+  "Definition": "A financial product that provides a stream of payments in retirement, often for life.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Gross Pay",
+  "Definition": "Your total earnings before any deductions.",
+  "Category": "Paycheck & Payroll"
+ },
+ {
+  "Term": "Net Pay",
+  "Definition": "Your take-home pay after all deductions.",
+  "Category": "Paycheck & Payroll"
+ },
+ {
+  "Term": "Withholding Allowance",
+  "Definition": "A claim that reduces the amount of income tax your employer withholds.",
+  "Category": "Paycheck & Payroll"
+ },
+ {
+  "Term": "Pay Period",
+  "Definition": "The recurring schedule your employer uses to pay you (e.g., biweekly).",
+  "Category": "Paycheck & Payroll"
+ },
+ {
+  "Term": "YTD (Year-To-Date)",
+  "Definition": "The total of your earnings or deductions from the start of the year to now.",
+  "Category": "Paycheck & Payroll"
+ },
+ {
+  "Term": "FICA Tax",
+  "Definition": "Taxes for Social Security and Medicare taken from your paycheck.",
+  "Category": "Paycheck & Payroll"
+ },
+ {
+  "Term": "401(k) Contribution",
+  "Definition": "The money you choose to put into your retirement account from your paycheck.",
+  "Category": "Paycheck & Payroll"
+ },
+ {
+  "Term": "Pre-Tax Deductions",
+  "Definition": "Deductions made before taxes, like health insurance or retirement savings.",
+  "Category": "Paycheck & Payroll"
+ },
+ {
+  "Term": "Post-Tax Deductions",
+  "Definition": "Deductions made after taxes, like union dues or garnishments.",
+  "Category": "Paycheck & Payroll"
+ },
+ {
+  "Term": "Accounts Payable",
+  "Definition": "Money a business owes to suppliers or vendors.",
+  "Category": "Financial Statements"
+ },
+ {
+  "Term": "Accounts Receivable",
+  "Definition": "Money owed to a business by its customers.",
+  "Category": "Financial Statements"
+ },
+ {
+  "Term": "Profit and Loss Statement",
+  "Definition": "A summary of income and expenses over a period.",
+  "Category": "Financial Statements"
+ },
+ {
+  "Term": "Operating Income",
+  "Definition": "Profit from business operations before interest and taxes.",
+  "Category": "Financial Statements"
+ },
+ {
+  "Term": "Net Profit",
+  "Definition": "Final earnings after all expenses and taxes.",
+  "Category": "Financial Statements"
+ },
+ {
+  "Term": "EBITDA",
+  "Definition": "Earnings before interest, taxes, depreciation, and amortization.",
+  "Category": "Financial Statements"
+ },
+ {
+  "Term": "1040EZ",
+  "Definition": "A simpler version of the IRS 1040 tax form for basic returns.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Schedule C",
+  "Definition": "A tax form for reporting income or loss from a sole proprietorship.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "W-2 Box 1",
+  "Definition": "Shows your taxable wages, tips, and other compensation.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "W-2 Box 2",
+  "Definition": "Shows the federal income tax withheld from your paycheck.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Form 1095-A",
+  "Definition": "A form showing health insurance coverage from the marketplace.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Form 1098",
+  "Definition": "A form showing mortgage interest paid, which may be tax-deductible.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Form 5498",
+  "Definition": "A form that reports IRA contributions and rollovers.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Form SSA-1099",
+  "Definition": "A form that reports Social Security benefits received.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Schedule A",
+  "Definition": "Used to itemize deductions like mortgage interest and medical expenses.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Form 8889",
+  "Definition": "Used to report contributions to and distributions from a Health Savings Account (HSA).",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "CD (Certificate of Deposit)",
+  "Definition": "A savings account with a fixed interest rate and term length.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Money Market Account",
+  "Definition": "A savings account that may offer higher interest rates and limited check writing.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Credit Limit",
+  "Definition": "The maximum amount you can borrow on a credit card.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Grace Period",
+  "Definition": "The time when you’re not charged interest on a credit card balance.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Annual Fee",
+  "Definition": "A yearly charge for having a credit card or financial product.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Late Fee",
+  "Definition": "A penalty for not making a payment on time.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Tax Extension",
+  "Definition": "Extra time granted to file your tax return, usually up to 6 months.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Form 4868",
+  "Definition": "Used to request a tax filing extension from the IRS.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Taxable Fringe Benefits",
+  "Definition": "Non-cash benefits from employers that are considered taxable income.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Form 990",
+  "Definition": "Tax form used by tax-exempt organizations to provide financial information.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Tax Lien",
+  "Definition": "A government claim on your property due to unpaid taxes.",
+  "Category": "Taxes"
+ },
+ {
+  "Term": "Underwater",
+  "Definition": "Owing more on an asset than it is currently worth.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Refinance",
+  "Definition": "Replacing an old loan with a new one with better terms.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Financial Independence",
+  "Definition": "Having enough income to cover living expenses without working.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Asset Protection",
+  "Definition": "Strategies used to protect wealth from lawsuits or creditors.",
+  "Category": "Financial Concepts"
+ },
+ {
+  "Term": "Estate",
+  "Definition": "All the money, property, and other assets owned by a person at death.",
+  "Category": "Estate Planning"
+ },
+ {
+  "Term": "Escrow Account",
+  "Definition": "An account that holds funds until contractual conditions are met.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Notary",
+  "Definition": "A person authorized to witness signatures and administer oaths.",
+  "Category": "Legal\/Financial Services"
+ },
+ {
+  "Term": "Lien",
+  "Definition": "A legal right to keep possession of property until a debt is paid.",
+  "Category": "Legal\/Financial Services"
+ },
+ {
+  "Term": "Foreclosure",
+  "Definition": "The legal process of repossessing property due to missed loan payments.",
+  "Category": "Banking"
+ },
+ {
+  "Term": "Bankruptcy",
+  "Definition": "A legal process to eliminate or repay debt under court protection.",
+  "Category": "Debt Management"
+ },
+ {
+  "Term": "DBA (Doing Business As)",
+  "Definition": "A registered name a business uses that is not its legal name.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "Business Entity",
+  "Definition": "A legally recognized organization formed to run a business.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "EIN (Employer Identification Number)",
+  "Definition": "A unique ID used by the IRS for business taxes.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "Startup Capital",
+  "Definition": "Money used to start a business.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "Pitch Deck",
+  "Definition": "A short presentation used to communicate a business idea to investors.",
+  "Category": "Entrepreneurship"
+ },
+ {
+  "Term": "403(b)",
+  "Definition": "A retirement plan for employees of public schools and certain nonprofits.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "457 Plan",
+  "Definition": "A retirement plan for government and nonprofit employees.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "SEP IRA",
+  "Definition": "A retirement account for self-employed people and small business owners.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Contribution Limit",
+  "Definition": "The maximum amount you can put into a retirement account each year.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Catch-Up Contribution",
+  "Definition": "Extra retirement savings allowed for people over age 50.",
+  "Category": "Investing & Retirement"
+ },
+ {
+  "Term": "Guaranteed Issue Life Insurance",
+  "Definition": "A policy you can get without medical questions or exams.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Modified Endowment Contract (MEC)",
+  "Definition": "A life insurance policy that loses tax advantages due to overfunding.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Non-Medical Life Insurance",
+  "Definition": "Life insurance issued without a medical exam.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Underwriting Guidelines",
+  "Definition": "Rules used by insurance companies to approve or deny coverage.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Surrender Value",
+  "Definition": "The cash amount received if you cancel a life insurance policy early.",
+  "Category": "Life Insurance"
+ },
+ {
+  "Term": "Budget Deficit",
+  "Definition": "When expenses exceed income.",
+  "Category": "Finance 101"
+ },
+ {
+  "Term": "Opportunity Cost",
+  "Definition": "The value of what you give up when you make a choice.",
+  "Category": "Finance 101"
+ },
+ {
+  "Term": "Time Value of Money",
+  "Definition": "Money today is worth more than the same amount in the future.",
+  "Category": "Finance 101"
+ },
+ {
+  "Term": "Marginal Tax Rate",
+  "Definition": "The rate you pay on your next dollar of income.",
+  "Category": "Finance 101"
+ },
+ {
+  "Term": "Simple Interest",
+  "Definition": "Interest calculated only on the original principal.",
+  "Category": "Finance 101"
+ },
+ {
+  "Term": "Principal Balance",
+  "Definition": "The outstanding amount still owed on a loan.",
+  "Category": "Finance 101"
+ },
+ {
+  "Term": "Installment",
+  "Definition": "Regular payments made to repay a loan over time.",
+  "Category": "Finance 101"
+ },
+ {
+  "Term": "Lease",
+  "Definition": "A contract to rent an asset for a specific period of time.",
+  "Category": "Finance 101"
+ },
+ {
+  "Term": "Collateral",
+  "Definition": "An asset pledged to secure a loan.",
+  "Category": "Finance 101"
+ },
+ {
+  "Term": "Inflation Rate",
+  "Definition": "The rate at which prices increase over time.",
+  "Category": "Finance 101"
+ },
+ {
+  "Term": "Escrow",
+  "Definition": "Money held by a third party until terms of a contract are met.",
+  "Category": "Real Estate"
+ },
+ {
+  "Term": "Mortgage",
+  "Definition": "A loan used to purchase a home or real estate.",
+  "Category": "Real Estate"
+ },
+ {
+  "Term": "Down Payment",
+  "Definition": "The initial amount paid upfront when buying a home.",
+  "Category": "Real Estate"
+ },
+ {
+  "Term": "Appraisal",
+  "Definition": "An estimate of a property's market value.",
+  "Category": "Real Estate"
+ },
+ {
+  "Term": "Closing Costs",
+  "Definition": "Fees paid at the end of a real estate transaction.",
+  "Category": "Real Estate"
+ },
+ {
+  "Term": "Equity (Real Estate)",
+  "Definition": "The value of a property minus the mortgage owed.",
+  "Category": "Real Estate"
+ },
+ {
+  "Term": "PMI (Private Mortgage Insurance)",
+  "Definition": "Insurance required if your down payment is less than 20%.",
+  "Category": "Real Estate"
+ },
+ {
+  "Term": "Title Insurance",
+  "Definition": "Protects against financial loss from defects in title to real property.",
+  "Category": "Real Estate"
+ },
+ {
+  "Term": "Deed",
+  "Definition": "A legal document showing ownership of property.",
+  "Category": "Real Estate"
+ },
+ {
+  "Term": "Refinancing",
+  "Definition": "Replacing an existing mortgage with a new one.",
+  "Category": "Real Estate"
+ },
+ {
+  "Term": "Policy Term",
+  "Definition": "The length of time an insurance policy is in effect.",
+  "Category": "Insurance Contracts"
+ },
+ {
+  "Term": "Grace Period",
+  "Definition": "Extra time to pay a premium without losing coverage.",
+  "Category": "Insurance Contracts"
+ },
+ {
+  "Term": "Policy Lapse",
+  "Definition": "When coverage ends due to non-payment.",
+  "Category": "Insurance Contracts"
+ },
+ {
+  "Term": "Rider (Insurance)",
+  "Definition": "An add-on provision to enhance coverage.",
+  "Category": "Insurance Contracts"
+ },
+ {
+  "Term": "Exclusion",
+  "Definition": "What is not covered by the insurance policy.",
+  "Category": "Insurance Contracts"
+ },
+ {
+  "Term": "Underwriter",
+  "Definition": "A person who evaluates risk and determines policy terms.",
+  "Category": "Insurance Contracts"
+ },
+ {
+  "Term": "Policyholder",
+  "Definition": "The person who owns the insurance policy.",
+  "Category": "Insurance Contracts"
+ },
+ {
+  "Term": "Premium",
+  "Definition": "The cost you pay for insurance coverage.",
+  "Category": "Insurance Contracts"
+ },
+ {
+  "Term": "Coverage Limit",
+  "Definition": "The maximum amount an insurer will pay under a policy.",
+  "Category": "Insurance Contracts"
+ },
+ {
+  "Term": "Claim",
+  "Definition": "A request for payment based on an insurance policy.",
+  "Category": "Insurance Contracts"
+ }
+]
