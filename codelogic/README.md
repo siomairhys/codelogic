@@ -67,16 +67,24 @@ lib/
 └── widgets/
     ├── term_card.dart                # Individual term display cards
     └── term_detail_popup.dart        # Detailed term popup modal
+
+assets/
+└── Finance_360_FINAL_300_Terms_Dictionary.json  # Financial terms database (1367 lines)
 ```
 
 ## 📊 Data Source
 
-The app uses a comprehensive JSON dataset containing:
-- **300+ Financial Terms**
-- **Categories**: Budgeting & Saving, Investments, Credit & Debt, Insurance, etc.
-- **Structured Format**: Each term includes name, definition, and category
+The app uses a comprehensive JSON dataset located in the `assets/` folder:
 
-Example data structure:
+### **Asset File:**
+- **File**: `Finance_360_FINAL_300_Terms_Dictionary.json`
+- **Size**: 1,367 lines of structured financial data
+- **Content**: 300+ carefully curated financial terms and definitions
+- **Categories**: Budgeting & Saving, Investments, Credit & Debt, Insurance, and more
+- **Format**: Clean, structured JSON for easy parsing and extensibility
+
+### **Data Structure:**
+Each financial term in the JSON file follows this format:
 ```json
 {
   "Term": "Assets",
@@ -84,6 +92,20 @@ Example data structure:
   "Category": "Budgeting & Saving"
 }
 ```
+
+### **Asset Configuration:**
+The JSON file is properly configured in `pubspec.yaml`:
+```yaml
+flutter:
+  assets:
+    - assets/Finance_360_FINAL_300_Terms_Dictionary.json
+```
+
+### **Data Loading Process:**
+1. App loads JSON file from assets using `rootBundle.loadString()`
+2. JSON data is parsed and converted to `DictionaryTerm` objects
+3. Terms are stored in memory for fast search and filtering
+4. Error handling ensures graceful fallback if asset loading fails
 
 ## 🎨 UI/UX Features
 
@@ -101,67 +123,3 @@ Example data structure:
 - **Visual feedback** with highlighting and animations
 - **Error states** with retry options
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Flutter SDK (3.8.1 or higher)
-- Dart SDK
-- Android Studio / VS Code with Flutter extensions
-
-### Installation
-1. Clone the repository
-2. Navigate to the project directory
-3. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-4. Run the app:
-   ```bash
-   flutter run
-   ```
-
-### Dependencies
-- `flutter: sdk`
-- `provider: ^6.1.5` - State management
-- `cupertino_icons: ^1.0.8` - iOS-style icons
-
-## 🔮 Future Enhancements
-
-### Planned Features:
-- **Bookmarking System**: Save favorite terms locally
-- **Offline Support**: Access definitions without internet
-- **Search History**: Track recently searched terms
-- **Category Filtering**: Filter terms by financial category
-- **Definition Sharing**: Share terms via social media/messaging
-- **Advanced Search**: Search within definitions content
-- **Dark Mode**: Theme switching capability
-- **Accessibility**: Enhanced screen reader support
-
-### Technical Improvements:
-- **Local Database**: SQLite integration for better performance
-- **Caching Strategy**: Improve app startup time
-- **Unit Testing**: Comprehensive test coverage
-- **CI/CD Pipeline**: Automated testing and deployment
-- **Analytics Integration**: Track user search patterns
-
-## 📱 Supported Platforms
-
-This Flutter app supports:
-- ✅ **Android** (API 21+)
-- ✅ **iOS** (iOS 11+) 
-- ✅ **Web** (Chrome, Safari, Firefox)
-- ✅ **Windows** (Windows 10+)
-- ✅ **macOS** (macOS 10.14+)
-- ✅ **Linux** (Ubuntu, Fedora, etc.)
-
-## 🤝 Contributing
-
-This project serves as a foundation for financial education apps. Contributions are welcome for:
-- Additional financial terms and definitions
-- UI/UX improvements
-- Performance optimizations
-- New features and functionality
-
-## 📄 License
-
-This project is created for educational purposes and financial literacy promotion.
