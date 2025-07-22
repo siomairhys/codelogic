@@ -88,7 +88,7 @@ class TermDetailPopup extends StatelessWidget {
                     const TextStyle(
                       fontSize: 24,
                       fontWeight: FontWeight.bold,
-                      color: Colors.deepPurple,
+                      color: Color(0xff1d324f),
                     ),
                   ),
                 ),
@@ -107,14 +107,14 @@ class TermDetailPopup extends StatelessWidget {
             Container(
               padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
               decoration: BoxDecoration(
-                color: Colors.deepPurple.withOpacity(0.1),
+                color: Color(0xff1d324f).withOpacity(0.1),
                 borderRadius: BorderRadius.circular(20),
-                border: Border.all(color: Colors.deepPurple.withOpacity(0.3)),
+                border: Border.all(color: Color(0xff1d324f).withOpacity(0.3)),
               ),
               child: Text(
                 'Category: ${term.category}',
                 style: TextStyle(
-                  color: Colors.deepPurple.shade700,
+                  color: Color(0xff1d324f),
                   fontWeight: FontWeight.w600,
                   fontSize: 12,
                 ),
@@ -184,7 +184,7 @@ class TermDetailPopup extends StatelessWidget {
                   icon: const Icon(Icons.bookmark),
                   label: const Text('Bookmark'),
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.deepPurple,
+                    backgroundColor: Color(0xff1d324f),
                     foregroundColor: Colors.white,
                   ),
                 ),

@@ -45,7 +45,7 @@ class TermCard extends StatelessWidget {
                       style: const TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 18,
-                        color: Colors.deepPurple,
+                        color: Color(0xff1d324f),
                       ),
                     ),
                   ),
@@ -76,7 +76,7 @@ class TermCard extends StatelessWidget {
                     padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                     decoration: BoxDecoration(
                       color: Color.alphaBlend(
-                        Colors.deepPurple.withAlpha((0.1 * 255).toInt()),
+                        Color(0xff1d324f).withAlpha((0.1 * 255).toInt()),
                         Colors.white,
                       ), // Light purple background
                       borderRadius: BorderRadius.circular(12),
@@ -85,7 +85,7 @@ class TermCard extends StatelessWidget {
                       term.category,
                       style: TextStyle(
                         fontSize: 12,
-                        color: Colors.deepPurple.shade700,
+                        color: Color(0xff1d324f),
                         fontWeight: FontWeight.w600,
                       ),
                     ),
